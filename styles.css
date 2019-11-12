@@ -1,0 +1,53 @@
+.container {display: inline-block;box-sizing: border-box;width: 80%;max-height: 30%;margin: 20px auto ;padding: 10px;
+
+  border: 5px solid black;
+  }
+
+#yellow {
+  display: inline-block;overflow: hidden;min-width:10%;min-height: 200px;color: blue;background: #FFFF47;
+  }
+
+#light-orange {
+  display: inline-block;overflow: hidden;min-width:10%;min-height: 200px;color: blue;background: #F17F29;
+  }
+
+#dark-orange {
+  display: inline-block;overflow: hidden;min-width:10%;min-height: 200px;color: blue;background: #F96900;
+  }
+
+#green {
+  display: inline-block;overflow: hidden;min-width:10%;min-height: 200px;color: blue;background: #2A7A00;
+  }
+
+#turquoise {
+display: inline-block;overflow: hidden;min-width:10%;min-height: 200px;color: blue;background: #E5FCFF;
+}
+
+#blue {
+display: inline-block;overflow: hidden;min-width:10%;min-height: 200px;color: blue;background: #2D99FF;
+}
+
+.mclaren {
+  font-family: 'McLaren', cursive;
+}
+
+.mclaren p {font-family: 'Mclaren'
+  , cursive;font-size: 14px;
+  font-weight: 400;
+  }
+
+.yeon {font-family: 'Yeon Sung', cursive;}
+
+.yeon p {font-family: 'Yeon Sung', cursive;font-size: 14px;
+  font-weight: 400;
+  }
+
+.roboto {font-family: 'Roboto', sans-serif;}
+
+.roboto p {font-size: 14px;font-weight: 400;
+}
+
+.fonts {display: inline-block;
+
+  width: 45%;
+  }
